@@ -2,8 +2,10 @@ package main
 
 import "fmt"
 
+var Nama string = "Fansyahlaode"
+
 func main () {
-	fmt.Println("hello world")
+	fmt.Println("Nama Saya Adalah :" , Nama)
 
 }
 
